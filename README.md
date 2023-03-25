@@ -1,9 +1,9 @@
-### Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Olayiwola+Ayoola)](https://git.io/typing-svg)
 
-<h2> ![Visitor Count](https://profile-counter.glitch.me/Layoolar/count.svg)<img src="" width="50"></h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=###+Hi+there+👋;Hi,+I+am+Olayiwola+Ayoola)](https://git.io/typing-svg)
+
+<h2></h2>
 <img align='right' src="" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Ibadan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
