@@ -1,10 +1,3 @@
-
-
-<br>
-
-
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Olayiwola+Ayoola)](https://git.io/typing-svg)
 
 <h2></h2>
@@ -37,6 +30,7 @@ const thai = {
 
 ---
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
