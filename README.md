@@ -1,12 +1,10 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'mm+Olayiwola+Ayoola)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Olayiwola+Ayoola)](https://git.io/typing-svg)
 
 <h2></h2>
-<img align='right' src="" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Ibadan</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<img alt="Coder GIF" align='right' height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
