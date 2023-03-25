@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=###+Hi+there+👋;Hi,+I+am+Olayiwola+Ayoola)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=###Hi+there+👋;Hi,+I+am+Olayiwola+Ayoola)](https://git.io/typing-svg)
 
 <h2></h2>
 <img align='right' src="" width="230">
