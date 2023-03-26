@@ -56,7 +56,11 @@ const ola = {
 Badges
 --
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Windows-6aa6f8)
+![](https://img.shields.io/badge/OS-macOS-6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-Vim-6aa6f8)
+![](https://img.shields.io/badge/Editor-IntelliJ-6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-PHP-6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
@@ -64,10 +68,16 @@ Badges
 ![](https://img.shields.io/badge/Code-Node-6aa6f8)
 ![](https://img.shields.io/badge/Code-Laravel-6aa6f8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React%20Native-6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-SQL-6aa6f8)
+![](https://img.shields.io/badge/Database-NoSQL-6aa6f8)
+![](https://img.shields.io/badge/Database-Mongo-6aa6f8)
+![](https://img.shields.io/badge/Database-Firestore-6aa6f8)
+![](https://img.shields.io/badge/Database-MySQL-6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Firebase-6aa6f8)
 ---
 
 ## Trophies
@@ -80,7 +90,6 @@ Badges
 ## Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=layoolar&theme=github_dark)
 
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=layoolar)
 <!-- ## Stats
 ![Olayiwola's GitHub stats](https://github-readme-stats.vercel.app/api?username=layoolar&show_icons=true&theme=radical) -->
 
