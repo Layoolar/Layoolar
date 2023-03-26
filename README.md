@@ -24,18 +24,17 @@ const ola = {
 <a href="https://github.com/Layoolar/Layoolar">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layoolar&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Layoolar's GitHub Stats" />
 </a>
----
 
 ## Resume
 [Resume](https://drive.google.com/file/d/1mgSa8y-ri8L_vrk_0-mYrPXgpMxFULIw/view?usp=sharing)
---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
---
+---
 
 ## Contact
 [![](https://img.shields.io/badge/Contact-Linkedin-6aa6f8)](https://www.linkedin.com/in/olayiwola-ayoola)
 [![](https://img.shields.io/badge/Contact-Gmail-%23EA4335)](mailto:olaiwolaayoola@gmail.com)
+
 ---
 
 ## Experience
@@ -54,7 +53,6 @@ const ola = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=layoolar&repo=expo_laravel_phonebook_api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Laravel honebook" />
 </a>
 
---
 
 ## Projects
 - [Home LLC](https://github.com/Layoolar/homellc) - An Authentication and pages layout.
@@ -84,7 +82,6 @@ Badges
 
 <a href="https://www.codewars.com/users/Layoola"><img src="https://www.codewars.com/users/Layoola/badges/large" /></a>
 
---
 
 ## Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=layoolar&theme=github_dark)
@@ -93,25 +90,3 @@ Badges
 <!-- ## Stats
 ![Olayiwola's GitHub stats](https://github-readme-stats.vercel.app/api?username=layoolar&show_icons=true&theme=radical) -->
 
-
-<!-- # Hi there 👋
-
-I'm a Node.js developer with experience in building web applications, APIs, and CLI tools.
-
-## Skills
-<div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=layoolar" alt="Layoolar's LangStat" />
- </div>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=layoolar&theme=github_dark)
-- **Languages:** JavaScript (ES6+), TypeScript
-- **Backend Frameworks:** Node.js (Express, Koa, NestJS)
-- **Frontend Frameworks:** React, Angular, Vue.js
-- **Databases:** MongoDB, PostgreSQL, MySQL, Redis
-- **Tools & Technologies:** Git, Docker, AWS, Firebase, Jest, Mocha/Chai, Socket.IO, GraphQL
-
-
-
-
-
- -->
