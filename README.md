@@ -16,7 +16,7 @@ const ola = {
   languages: [Javascript, Typescript, PHP, HTML, CSS],
   additionalLanguages: [Python, Java, C],
   tools: [Node, React, React Native, Redux, Laravel, Storybook, Styled-Components, Jest, Docker],
-  additionalTools: [Git, Docker, AWS, Firebase, Jest]
+  additionalTools: [Git, Docker, AWS, Firebase, Jest], 
   databases: [SQL, NoSQL],
   hobbies: [Anime, Music],
 }
