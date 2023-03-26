@@ -29,12 +29,12 @@ const ola = {
 [Resume](https://drive.google.com/file/d/1mgSa8y-ri8L_vrk_0-mYrPXgpMxFULIw/view?usp=sharing)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
----
+
 
 ## Contact
 [![](https://img.shields.io/badge/Contact-Linkedin-6aa6f8)](https://www.linkedin.com/in/olayiwola-ayoola)
 [![](https://img.shields.io/badge/Contact-Gmail-%23EA4335)](mailto:olaiwolaayoola@gmail.com)
-
+[![](https://img.shields.io/badge/Contact-Twitter-6aa6f8)](https://www.twitter.com/Layoolar)
 ---
 
 ## Experience
@@ -52,12 +52,6 @@ const ola = {
 <a href="https://github.com/Layoolar/expo_laravel_phonebook_api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=layoolar&repo=expo_laravel_phonebook_api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Laravel honebook" />
 </a>
-
-
-## Projects
-- [Home LLC](https://github.com/Layoolar/homellc) - An Authentication and pages layout.
-- [Phonebook API](https://github.com/your_username/expo_laravel_phonebook_api) - A laravel contact and customer management application for react native.
---
 
 Badges
 --
