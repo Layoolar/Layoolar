@@ -44,7 +44,7 @@ const ola = {
 - [Readycars](https://readycars.ng)
 ---
 
-## Highlight Projects
+## Highlight Public Projects
 <a href="https://github.com/Layoolar/homellc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=layoolar&repo=homellc&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Home LLC" />
 </a>
