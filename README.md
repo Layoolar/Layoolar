@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Olayiwola+Ayoola;I'm+a+full-stack+developer)](https://git.io/typing-svg)
 
-### Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/Layoolar/count.svg)
+## Visitor Count 
+![Visitor Count](https://profile-counter.glitch.me/Layoolar/count.svg)
 
 
 <img alt="Coder GIF" align='right' height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
@@ -23,11 +24,14 @@ const ola = {
 <a href="https://github.com/Layoolar/Layoolar">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layoolar&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Layoolar's GitHub Stats" />
 </a>
+---
 
-
+## Resume
+[Resume](https://drive.google.com/file/d/1mgSa8y-ri8L_vrk_0-mYrPXgpMxFULIw/view?usp=sharing)
+--
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
----
+--
 
 ## Contact
 [![](https://img.shields.io/badge/Contact-Linkedin-6aa6f8)](https://www.linkedin.com/in/olayiwola-ayoola)
@@ -41,8 +45,7 @@ const ola = {
 - [Readycars](https://readycars.ng)
 ---
 
-## 🗂️ Highlight Projects
-
+## Highlight Projects
 <a href="https://github.com/Layoolar/homellc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=layoolar&repo=homellc&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Home LLC" />
 </a>
@@ -56,7 +59,10 @@ const ola = {
 ## Projects
 - [Home LLC](https://github.com/Layoolar/homellc) - An Authentication and pages layout.
 - [Phonebook API](https://github.com/your_username/expo_laravel_phonebook_api) - A laravel contact and customer management application for react native.
+--
 
+Badges
+--
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
@@ -75,7 +81,15 @@ const ola = {
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=layoolar&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+
+<a href="https://www.codewars.com/users/Layoola"><img src="https://www.codewars.com/users/Layoola/badges/large" /></a>
+
+--
+
+## Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=layoolar&theme=github_dark)
+
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=layoolar)
 <!-- ## Stats
 ![Olayiwola's GitHub stats](https://github-readme-stats.vercel.app/api?username=layoolar&show_icons=true&theme=radical) -->
 
@@ -85,7 +99,11 @@ const ola = {
 I'm a Node.js developer with experience in building web applications, APIs, and CLI tools.
 
 ## Skills
+<div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=layoolar" alt="Layoolar's LangStat" />
+ </div>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=layoolar&theme=github_dark)
 - **Languages:** JavaScript (ES6+), TypeScript
 - **Backend Frameworks:** Node.js (Express, Koa, NestJS)
 - **Frontend Frameworks:** React, Angular, Vue.js
