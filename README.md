@@ -23,6 +23,22 @@ const ola = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+## Contact
+[![](https://img.shields.io/badge/Contact-Linkedin-6aa6f8)](https://www.linkedin.com/in/olayiwola-ayoola)
+[![]([![](https://img.shields.io/badge/Contact-Linkedin-6aa6f8)](https://www.linkedin.com/in/olayiwola-ayoola))](mailto:olaiwolaayoola@gmail.com)
+
+
+## Experience
+- [Crossover](https://www.crossover.com)
+- [Trilogy](https://www.trilogy.com)
+- [Zeeh Africa](https://www.zeeh.africa/about)
+- [Readycars](https://readycars.ng)
+
+## Projects
+
+- [Home LLC](https://github.com/Layoolar/homellc) - An Authentication and pages layout.
+- [Phonebook API](https://github.com/your_username/expo_laravel_phonebook_api) - A laravel contact and customer management application for react native.
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
@@ -39,6 +55,12 @@ const ola = {
 ---
 
 
+
+
+<!-- ## Stats
+![Olayiwola's GitHub stats](https://github-readme-stats.vercel.app/api?username=layoolar&show_icons=true&theme=radical) -->
+
+
 <!-- # Hi there 👋
 
 I'm a Node.js developer with experience in building web applications, APIs, and CLI tools.
@@ -51,16 +73,8 @@ I'm a Node.js developer with experience in building web applications, APIs, and 
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis
 - **Tools & Technologies:** Git, Docker, AWS, Firebase, Jest, Mocha/Chai, Socket.IO, GraphQL
 
-## Projects
 
-- [Project 1](https://github.com/your_username/project_1) - Short description of project 1.
-- [Project 2](https://github.com/your_username/project_2) - Short description of project 2.
-- [Project 3](https://github.com/your_username/project_3) - Short description of project 3.
 
-## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/your_linkedin_profile)
-- [Email](mailto:your_email@example.com)
-- [Portfolio](https://your_portfolio_website.com)
 
  -->
