@@ -45,12 +45,20 @@ const ola = {
 ---
 
 ## Highlight Public Projects
+
+<a href="https://github.com/Layoolar/pipekit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=layoolar&repo=pipekit&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Pipe Kit" />
+</a>
 <a href="https://github.com/Layoolar/homellc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=layoolar&repo=homellc&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Home LLC" />
 </a>
 
 <a href="https://github.com/Layoolar/expo_laravel_phonebook_api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=layoolar&repo=expo_laravel_phonebook_api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Laravel honebook" />
+</a>
+
+<a href="https://github.com/Layoolar/hotel-reserve-application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=layoolar&repo=hotel-reserve-application&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Laravel honebook" />
 </a>
 
 Badges
