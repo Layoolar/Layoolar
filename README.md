@@ -25,6 +25,8 @@ const ola = {
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layoolar&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Layoolar's GitHub Stats" />
 </a>
 
+
+<!--
 ## Website
 
 [layoola.info](https://layoola.info)
@@ -32,7 +34,7 @@ const ola = {
 
 ## Resume
 [Resume](https://drive.google.com/file/d/1mgSa8y-ri8L_vrk_0-mYrPXgpMxFULIw/view?usp=sharing)
-
+-->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
@@ -48,7 +50,7 @@ const ola = {
 - [Zeeh Africa](https://www.zeeh.africa/about)
 - [Readycars](https://readycars.ng)
 ---
-
+<!--
 ## Highlight Public Projects
 
 <a href="https://github.com/Layoolar/pipekit">
@@ -65,6 +67,7 @@ const ola = {
 <a href="https://github.com/Layoolar/hotel-reserve-application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=layoolar&repo=hotel-reserve-application&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Laravel honebook" />
 </a>
+-->
 
 Badges
 --
@@ -99,10 +102,10 @@ Badges
 
 <a href="https://www.codewars.com/users/Layoola"><img src="https://www.codewars.com/users/Layoola/badges/large" /></a>
 
-
+<!--
 ## Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=layoolar&theme=github_dark)
 
 <!-- ## Stats
 ![Olayiwola's GitHub stats](https://github-readme-stats.vercel.app/api?username=layoolar&show_icons=true&theme=radical) -->
-
+-->
