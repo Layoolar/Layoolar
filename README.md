@@ -45,10 +45,11 @@ const ola = {
 ---
 
 ## Experience
-- [Crossover](https://www.crossover.com)
-- [Trilogy](https://www.trilogy.com)
+- [Auris Tech](https://www.auris.tech/)
+- [Liblab](https://www.liblab.com)
+- [Hopstair](https://www.hopstair.com)
+- [Tiiny Host](https://www.tiiny.host)
 - [Zeeh Africa](https://www.zeeh.africa/about)
-- [Readycars](https://readycars.ng)
 ---
 <!--
 ## Highlight Public Projects
