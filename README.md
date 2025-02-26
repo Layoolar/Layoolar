@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Olayiwola+Ayoola;I'm+a+full-stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Olayiwola+Ayoola;I'm+a+full-stack+and+blockchain+developer)](https://git.io/typing-svg)
 
 ## Visitor Count 
 ![Visitor Count](https://profile-counter.glitch.me/Layoolar/count.svg)
